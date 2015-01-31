@@ -1,0 +1,27 @@
+{
+  "name": "ampersand-checkbox-view-extension",
+  "version": "1.0.0",
+  "description": "An extension from `ampersand-checkbox-view`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yallups/ampersand-checkbox-view-extension.git"
+  },
+  "keywords": [
+    "ampersand",
+    "checkbox"
+  ],
+  "author": "Shawn Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yallups/ampersand-checkbox-view-extension/issues"
+  },
+  "homepage": "https://github.com/yallups/ampersand-checkbox-view-extension",
+  "dependencies": {
+    "amp-unique-id": "^1.0.2",
+    "extend": "^2.0.0"
+  }
+}
