@@ -1,2 +1,2 @@
 # ampersand-checkbox-view-extension
-An extension of ampersand checkbox
+An extension of `ampersand-checkbox-view`
